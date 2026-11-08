@@ -1,0 +1,5 @@
+requests
+pymongo[srv]
+shapely
+folium
+python-dotenv
